@@ -1,0 +1,171 @@
+{
+  "navigation": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "about": "Über uns",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "hero": {
+      "title": "Experten für Cloud & DevOps Lösungen",
+      "subtitle": "Transformieren Sie Ihre Infrastruktur mit erstklassigen Cloud-Diensten auf AWS, GCP, Azure, Alibaba Cloud und Oracle Cloud",
+      "ctaPrimary": "Dienstleistungen ansehen",
+      "ctaSecondary": "Kontaktieren Sie uns"
+    },
+    "services": {
+      "title": "Unsere Dienstleistungen",
+      "subtitle": "Umfassende Cloud- und DevOps-Lösungen, maßgeschneidert für Ihre Geschäftsanforderungen",
+      "cloudTitle": "Multi-Cloud-Expertise",
+      "cloudDesc": "Infrastrukturlösungen für alle großen Cloud-Anbieter",
+      "devopsTitle": "Vollständiges DevOps-Spektrum",
+      "devopsDesc": "End-to-End DevOps-Transformation und Automatisierung"
+    },
+    "whyChooseUs": {
+      "title": "Warum AmiTCore wählen",
+      "subtitle": "Ihr vertrauenswürdiger Partner für Cloud-Infrastruktur und DevOps-Exzellenz",
+      "expertise": {
+        "title": "Multi-Cloud-Expertise",
+        "description": "Tiefes Wissen und Zertifizierungen für AWS, GCP, Azure, Alibaba Cloud und Oracle Cloud"
+      },
+      "team": {
+        "title": "Zertifizierte Fachleute",
+        "description": "Team erfahrener Ingenieure mit branchenweit anerkannten Zertifizierungen und nachweislicher Erfolgsbilanz"
+      },
+      "devops": {
+        "title": "Vollständige DevOps-Lösungen",
+        "description": "Umfassende DevOps-Dienste von CI/CD-Pipelines bis zur Infrastruktur-Automatisierung"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Rund-um-die-Uhr-Support und Überwachung für einen reibungslosen Betrieb Ihrer Infrastruktur"
+      },
+      "costEffective": {
+        "title": "Kosteneffizienter Remote-Support",
+        "description": "Keine teuren Vollzeit-IT-Mitarbeiter erforderlich. Erhalten Sie bei Bedarf fachkundigen Remote-Support"
+      }
+    }
+  },
+  "services": {
+    "title": "Unsere Dienstleistungen",
+    "subtitle": "Umfassende Cloud-Infrastruktur- und DevOps-Lösungen",
+    "cloudProviders": {
+      "title": "Cloud-Anbieter",
+      "subtitle": "Expertendienste für alle großen Cloud-Plattformen",
+      "aws": {
+        "name": "Amazon Web Services",
+        "description": "Umfassende AWS-Beratung, Architektur und Implementierungsdienste",
+        "services": "EC2, S3, Lambda, EKS, RDS, CloudFormation, VPC, IAM und mehr"
+      },
+      "gcp": {
+        "name": "Google Cloud Platform",
+        "description": "GCP-Architekturdesign, Migration und Optimierungsdienste",
+        "services": "Compute Engine, GKE, Cloud Run, BigQuery, Cloud Functions, Cloud Storage"
+      },
+      "azure": {
+        "name": "Microsoft Azure",
+        "description": "Azure-Cloud-Lösungen und Unternehmensintegrationsdienste",
+        "services": "Virtual Machines, AKS, Azure DevOps, Functions, Blob Storage, Azure SQL"
+      },
+      "alicloud": {
+        "name": "Alibaba Cloud",
+        "description": "Alicloud-Bereitstellung, Konfiguration und Optimierung",
+        "services": "ECS, Container Service, Function Compute, Object Storage Service"
+      },
+      "oracle": {
+        "name": "Oracle Cloud",
+        "description": "Oracle Cloud Infrastructure-Expertise und Implementierung",
+        "services": "Compute, Container Engine for Kubernetes, Functions, Block Storage"
+      }
+    },
+    "devops": {
+      "title": "DevOps-Dienstleistungen",
+      "subtitle": "End-to-End DevOps-Transformation und Automatisierung",
+      "cicd": {
+        "title": "CI/CD-Pipelines",
+        "description": "Automatisierte Continuous Integration- und Deployment-Pipelines",
+        "tools": "Jenkins, GitLab CI, GitHub Actions, CircleCI, ArgoCD, Azure DevOps"
+      },
+      "iac": {
+        "title": "Infrastructure as Code",
+        "description": "Automatisierte Infrastruktur-Bereitstellung und -Verwaltung",
+        "tools": "Terraform, Ansible, CloudFormation, Pulumi, ARM Templates"
+      },
+      "containers": {
+        "title": "Container-Orchestrierung",
+        "description": "Containerisierungs- und Orchestrierungslösungen",
+        "tools": "Kubernetes, Docker, Helm, Rancher, OpenShift, ECS, GKE, AKS"
+      },
+      "monitoring": {
+        "title": "Monitoring & Observability",
+        "description": "Umfassende Monitoring-, Logging- und Alerting-Lösungen",
+        "tools": "Prometheus, Grafana, ELK Stack, Datadog, New Relic, CloudWatch"
+      },
+      "security": {
+        "title": "Sicherheit & Compliance",
+        "description": "Sicherheitsscanning, Compliance-Automatisierung und Secrets-Management",
+        "tools": "Vault, SonarQube, Trivy, Aqua Security, SAST/DAST, Compliance as Code"
+      },
+      "config": {
+        "title": "Konfigurationsmanagement",
+        "description": "Automatisiertes Konfigurations- und Änderungsmanagement",
+        "tools": "Ansible, Chef, Puppet, Salt, Consul"
+      }
+    }
+  },
+  "about": {
+    "title": "Über AmiTCore",
+    "subtitle": "Ihr vertrauenswürdiger Partner für Cloud-Infrastruktur und DevOps-Exzellenz",
+    "mission": {
+      "title": "Unsere Mission",
+      "description": "AmiTCore widmet sich der Unterstützung von Unternehmen bei der Transformation ihrer Infrastruktur durch modernste Cloud-Technologien und DevOps-Praktiken. Wir sind spezialisiert auf Multi-Cloud-Lösungen und ermöglichen Organisationen, das Beste aus AWS, GCP, Azure, Alibaba Cloud und Oracle Cloud zu nutzen."
+    },
+    "expertise": {
+      "title": "Unsere Expertise",
+      "description": "Unser Team aus zertifizierten Fachleuten bringt tiefgreifende Expertise für alle großen Cloud-Plattformen und DevOps-Tools mit. Wir haben erfolgreich Infrastrukturlösungen für Unternehmen jeder Größe geliefert, von Start-ups bis zu Großunternehmen.",
+      "certifications": "AWS Certified Solutions Architect, Google Cloud Professional Cloud Architect, Microsoft Azure Solutions Architect, Certified Kubernetes Administrator (CKA) und mehr"
+    },
+    "values": {
+      "title": "Unsere Werte",
+      "innovation": "Innovation",
+      "innovationDesc": "Immer auf dem neuesten Stand mit den neuesten Cloud-Technologien und Best Practices",
+      "reliability": "Zuverlässigkeit",
+      "reliabilityDesc": "Aufbau robuster, skalierbarer Infrastruktur, auf die Sie sich verlassen können",
+      "partnership": "Partnerschaft",
+      "partnershipDesc": "Enge Zusammenarbeit mit Kunden, um ihre individuellen Bedürfnisse zu verstehen und zu erfüllen",
+      "excellence": "Exzellenz",
+      "excellenceDesc": "Bereitstellung hochwertiger Lösungen, die Erwartungen übertreffen"
+    }
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "subtitle": "Nehmen Sie Kontakt auf, um Ihre Cloud-Infrastruktur- und DevOps-Anforderungen zu besprechen",
+    "getInTouch": "Kontakt aufnehmen",
+    "email": "E-Mail",
+    "emailAddress": "info@amitcore.com",
+    "phone": "Telefon",
+    "phoneNumber": "Auf Anfrage verfügbar",
+    "hours": "Geschäftszeiten",
+    "hoursDetails": "Montag - Freitag: 9:00 - 18:00 Uhr",
+    "sendMessage": "Senden Sie uns eine Nachricht",
+    "messagePrompt": "Klicken Sie auf die Schaltfläche unten, um uns eine E-Mail zu senden",
+    "contactButton": "Kontakt per E-Mail",
+    "social": "Folgen Sie uns",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "footer": {
+    "copyright": "© 2025 AmiTCore. Alle Rechte vorbehalten.",
+    "tagline": "Cloud-Infrastruktur & DevOps-Exzellenz",
+    "quickLinks": "Schnellzugriff",
+    "services": "Dienstleistungen",
+    "cloudProviders": "Cloud-Anbieter",
+    "devopsServices": "DevOps-Dienstleistungen",
+    "followUs": "Folgen Sie uns"
+  },
+  "common": {
+    "learnMore": "Mehr erfahren",
+    "readMore": "Weiterlesen",
+    "viewAll": "Alle anzeigen",
+    "backToHome": "Zurück zur Startseite"
+  }
+}

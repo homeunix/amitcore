@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4f46e5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Cloud shape -->
+  <path d="M24 14c0-0.3 0-0.6-0.1-0.9C23.3 9.7 20.4 7 16.8 7c-2.8 0-5.2 1.7-6.3 4.1C9.8 11 9.2 11 8.5 11c-2.5 0-4.5 2-4.5 4.5S6 20 8.5 20h14c3 0 5.5-2.5 5.5-5.5S27 14 24 14z"
+        fill="url(#grad)" />
+
+  <!-- Terminal/code brackets -->
+  <g fill="white" opacity="0.9">
+    <!-- Left bracket -->
+    <path d="M13 17l-2-2 2-2" stroke="white" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Right bracket -->
+    <path d="M19 17l2-2-2-2" stroke="white" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

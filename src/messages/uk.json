@@ -1,0 +1,171 @@
+{
+  "navigation": {
+    "home": "Головна",
+    "services": "Послуги",
+    "about": "Про нас",
+    "contact": "Контакти"
+  },
+  "home": {
+    "hero": {
+      "title": "Експертні Cloud і DevOps рішення",
+      "subtitle": "Трансформуйте свою інфраструктуру за допомогою хмарних сервісів корпоративного рівня на AWS, GCP, Azure, Alibaba Cloud та Oracle Cloud",
+      "ctaPrimary": "Переглянути послуги",
+      "ctaSecondary": "Зв'язатися з нами"
+    },
+    "services": {
+      "title": "Наші послуги",
+      "subtitle": "Комплексні хмарні та DevOps рішення, адаптовані до ваших бізнес-потреб",
+      "cloudTitle": "Мультихмарна експертиза",
+      "cloudDesc": "Інфраструктурні рішення для всіх основних хмарних провайдерів",
+      "devopsTitle": "Повний спектр DevOps",
+      "devopsDesc": "Наскрізна DevOps-трансформація та автоматизація"
+    },
+    "whyChooseUs": {
+      "title": "Чому обирають AmiTCore",
+      "subtitle": "Ваш надійний партнер у хмарній інфраструктурі та DevOps досконалості",
+      "expertise": {
+        "title": "Мультихмарна експертиза",
+        "description": "Глибокі знання та сертифікації з AWS, GCP, Azure, Alibaba Cloud та Oracle Cloud"
+      },
+      "team": {
+        "title": "Сертифіковані професіонали",
+        "description": "Команда досвідчених інженерів з визнаними галузевими сертифікатами та підтвердженим досвідом"
+      },
+      "devops": {
+        "title": "Комплексні DevOps рішення",
+        "description": "Повний спектр DevOps послуг від CI/CD конвеєрів до автоматизації інфраструктури"
+      },
+      "support": {
+        "title": "Підтримка 24/7",
+        "description": "Цілодобова підтримка та моніторинг для безперебійної роботи вашої інфраструктури"
+      },
+      "costEffective": {
+        "title": "Економічно ефективна віддалена підтримка",
+        "description": "Не потрібні дорогі штатні IT-фахівці. Отримуйте експертну віддалену підтримку на вимогу, коли вона вам потрібна"
+      }
+    }
+  },
+  "services": {
+    "title": "Наші послуги",
+    "subtitle": "Комплексні рішення для хмарної інфраструктури та DevOps",
+    "cloudProviders": {
+      "title": "Хмарні провайдери",
+      "subtitle": "Експертні послуги для всіх основних хмарних платформ",
+      "aws": {
+        "name": "Amazon Web Services",
+        "description": "Повний спектр AWS консалтингу, архітектури та впровадження",
+        "services": "EC2, S3, Lambda, EKS, RDS, CloudFormation, VPC, IAM та інше"
+      },
+      "gcp": {
+        "name": "Google Cloud Platform",
+        "description": "Проектування архітектури GCP, міграція та оптимізація",
+        "services": "Compute Engine, GKE, Cloud Run, BigQuery, Cloud Functions, Cloud Storage"
+      },
+      "azure": {
+        "name": "Microsoft Azure",
+        "description": "Хмарні рішення Azure та корпоративна інтеграція",
+        "services": "Virtual Machines, AKS, Azure DevOps, Functions, Blob Storage, Azure SQL"
+      },
+      "alicloud": {
+        "name": "Alibaba Cloud",
+        "description": "Розгортання, налаштування та оптимізація Alicloud",
+        "services": "ECS, Container Service, Function Compute, Object Storage Service"
+      },
+      "oracle": {
+        "name": "Oracle Cloud",
+        "description": "Експертиза та впровадження Oracle Cloud Infrastructure",
+        "services": "Compute, Container Engine for Kubernetes, Functions, Block Storage"
+      }
+    },
+    "devops": {
+      "title": "DevOps послуги",
+      "subtitle": "Наскрізна DevOps-трансформація та автоматизація",
+      "cicd": {
+        "title": "CI/CD конвеєри",
+        "description": "Автоматизовані конвеєри безперервної інтеграції та розгортання",
+        "tools": "Jenkins, GitLab CI, GitHub Actions, CircleCI, ArgoCD, Azure DevOps"
+      },
+      "iac": {
+        "title": "Інфраструктура як код",
+        "description": "Автоматизоване розгортання та управління інфраструктурою",
+        "tools": "Terraform, Ansible, CloudFormation, Pulumi, ARM Templates"
+      },
+      "containers": {
+        "title": "Оркестрація контейнерів",
+        "description": "Рішення з контейнеризації та оркестрації",
+        "tools": "Kubernetes, Docker, Helm, Rancher, OpenShift, ECS, GKE, AKS"
+      },
+      "monitoring": {
+        "title": "Моніторинг та спостережність",
+        "description": "Комплексні рішення з моніторингу, логування та сповіщення",
+        "tools": "Prometheus, Grafana, ELK Stack, Datadog, New Relic, CloudWatch"
+      },
+      "security": {
+        "title": "Безпека та відповідність",
+        "description": "Сканування безпеки, автоматизація відповідності та управління секретами",
+        "tools": "Vault, SonarQube, Trivy, Aqua Security, SAST/DAST, Compliance as Code"
+      },
+      "config": {
+        "title": "Управління конфігурацією",
+        "description": "Автоматизоване управління конфігурацією та змінами",
+        "tools": "Ansible, Chef, Puppet, Salt, Consul"
+      }
+    }
+  },
+  "about": {
+    "title": "Про AmiTCore",
+    "subtitle": "Ваш надійний партнер у хмарній інфраструктурі та DevOps досконалості",
+    "mission": {
+      "title": "Наша місія",
+      "description": "AmiTCore присвячений допомозі бізнесу в трансформації їхньої інфраструктури через передові хмарні технології та DevOps практики. Ми спеціалізуємося на мультихмарних рішеннях, що дозволяє організаціям використовувати найкраще з AWS, GCP, Azure, Alibaba Cloud та Oracle Cloud."
+    },
+    "expertise": {
+      "title": "Наша експертиза",
+      "description": "Наша команда сертифікованих професіоналів має глибоку експертизу у всіх основних хмарних платформах та DevOps інструментах. Ми успішно реалізували інфраструктурні рішення для бізнесу будь-якого розміру, від стартапів до великих підприємств.",
+      "certifications": "AWS Certified Solutions Architect, Google Cloud Professional Cloud Architect, Microsoft Azure Solutions Architect, Certified Kubernetes Administrator (CKA) та інші"
+    },
+    "values": {
+      "title": "Наші цінності",
+      "innovation": "Інновації",
+      "innovationDesc": "Випереджаємо час з новітніми хмарними технологіями та кращими практиками",
+      "reliability": "Надійність",
+      "reliabilityDesc": "Побудова надійної, масштабованої інфраструктури, на яку можна покластися",
+      "partnership": "Партнерство",
+      "partnershipDesc": "Тісна співпраця з клієнтами для розуміння та задоволення їхніх унікальних потреб",
+      "excellence": "Досконалість",
+      "excellenceDesc": "Надання високоякісних рішень, що перевершують очікування"
+    }
+  },
+  "contact": {
+    "title": "Зв'яжіться з нами",
+    "subtitle": "Зв'яжіться, щоб обговорити ваші потреби у хмарній інфраструктурі та DevOps",
+    "getInTouch": "Зв'язатися",
+    "email": "Електронна пошта",
+    "emailAddress": "info@amitcore.com",
+    "phone": "Телефон",
+    "phoneNumber": "За запитом",
+    "hours": "Робочі години",
+    "hoursDetails": "Понеділок - П'ятниця: 9:00 - 18:00",
+    "sendMessage": "Надішліть нам повідомлення",
+    "messagePrompt": "Натисніть кнопку нижче, щоб надіслати нам електронний лист",
+    "contactButton": "Зв'язатися електронною поштою",
+    "social": "Слідкуйте за нами",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "footer": {
+    "copyright": "© 2025 AmiTCore. Всі права захищені.",
+    "tagline": "Хмарна інфраструктура та DevOps досконалість",
+    "quickLinks": "Швидкі посилання",
+    "services": "Послуги",
+    "cloudProviders": "Хмарні провайдери",
+    "devopsServices": "DevOps послуги",
+    "followUs": "Слідкуйте за нами"
+  },
+  "common": {
+    "learnMore": "Дізнатися більше",
+    "readMore": "Читати далі",
+    "viewAll": "Переглянути все",
+    "backToHome": "Назад на головну"
+  }
+}

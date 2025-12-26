@@ -1,0 +1,171 @@
+{
+  "navigation": {
+    "home": "בית",
+    "services": "שירותים",
+    "about": "אודות",
+    "contact": "צור קשר"
+  },
+  "home": {
+    "hero": {
+      "title": "פתרונות מומחים ל-Cloud ו-DevOps",
+      "subtitle": "שנה את התשתית שלך עם שירותי ענן ברמה ארגונית ב-AWS, GCP, Azure, Alibaba Cloud ו-Oracle Cloud",
+      "ctaPrimary": "צפה בשירותים",
+      "ctaSecondary": "צור קשר"
+    },
+    "services": {
+      "title": "השירותים שלנו",
+      "subtitle": "פתרונות מקיפים לענן ו-DevOps המותאמים לצרכי העסק שלך",
+      "cloudTitle": "מומחיות רב-ענן",
+      "cloudDesc": "פתרונות תשתית עבור כל ספקי הענן הגדולים",
+      "devopsTitle": "DevOps מלא",
+      "devopsDesc": "טרנספורמציה ואוטומציה של DevOps מקצה לקצה"
+    },
+    "whyChooseUs": {
+      "title": "למה לבחור ב-AmiTCore",
+      "subtitle": "השותף המהימן שלך למצוינות בתשתית ענן ו-DevOps",
+      "expertise": {
+        "title": "מומחיות רב-ענן",
+        "description": "ידע מעמיק והסמכות ב-AWS, GCP, Azure, Alibaba Cloud ו-Oracle Cloud"
+      },
+      "team": {
+        "title": "אנשי מקצוע מוסמכים",
+        "description": "צוות של מהנדסים מנוסים עם הסמכות מוכרות בתעשייה ורקורד מוכח"
+      },
+      "devops": {
+        "title": "פתרונות DevOps מלאים",
+        "description": "שירותי DevOps מלאים מצינורות CI/CD ועד אוטומציה של תשתית"
+      },
+      "support": {
+        "title": "תמיכה 24/7",
+        "description": "תמיכה וניטור מסביב לשעון כדי להבטיח שהתשתית שלך פועלת בצורה חלקה"
+      },
+      "costEffective": {
+        "title": "תמיכה מרחוק חסכונית",
+        "description": "אין צורך בצוות IT במשרה מלאה יקר. קבל תמיכה מרחוק מומחית לפי דרישה כשאתה צריך"
+      }
+    }
+  },
+  "services": {
+    "title": "השירותים שלנו",
+    "subtitle": "פתרונות מקיפים לתשתית ענן ו-DevOps",
+    "cloudProviders": {
+      "title": "ספקי ענן",
+      "subtitle": "שירותי מומחים עבור כל פלטפורמות הענן הגדולות",
+      "aws": {
+        "name": "Amazon Web Services",
+        "description": "ייעוץ, ארכיטקטורה ושירותי יישום AWS מלאים",
+        "services": "EC2, S3, Lambda, EKS, RDS, CloudFormation, VPC, IAM ועוד"
+      },
+      "gcp": {
+        "name": "Google Cloud Platform",
+        "description": "עיצוב ארכיטקטורת GCP, הגירה ושירותי אופטימיזציה",
+        "services": "Compute Engine, GKE, Cloud Run, BigQuery, Cloud Functions, Cloud Storage"
+      },
+      "azure": {
+        "name": "Microsoft Azure",
+        "description": "פתרונות ענן Azure ושירותי אינטגרציה ארגונית",
+        "services": "Virtual Machines, AKS, Azure DevOps, Functions, Blob Storage, Azure SQL"
+      },
+      "alicloud": {
+        "name": "Alibaba Cloud",
+        "description": "פריסה, תצורה ואופטימיזציה של Alicloud",
+        "services": "ECS, Container Service, Function Compute, Object Storage Service"
+      },
+      "oracle": {
+        "name": "Oracle Cloud",
+        "description": "מומחיות ויישום של Oracle Cloud Infrastructure",
+        "services": "Compute, Container Engine for Kubernetes, Functions, Block Storage"
+      }
+    },
+    "devops": {
+      "title": "שירותי DevOps",
+      "subtitle": "טרנספורמציה ואוטומציה של DevOps מקצה לקצה",
+      "cicd": {
+        "title": "צינורות CI/CD",
+        "description": "צינורות אינטגרציה ופריסה רציפה אוטומטיים",
+        "tools": "Jenkins, GitLab CI, GitHub Actions, CircleCI, ArgoCD, Azure DevOps"
+      },
+      "iac": {
+        "title": "תשתית כקוד",
+        "description": "הקצאה וניהול תשתית אוטומטיים",
+        "tools": "Terraform, Ansible, CloudFormation, Pulumi, ARM Templates"
+      },
+      "containers": {
+        "title": "תזמור מכולות",
+        "description": "פתרונות קונטיינריזציה ותזמור",
+        "tools": "Kubernetes, Docker, Helm, Rancher, OpenShift, ECS, GKE, AKS"
+      },
+      "monitoring": {
+        "title": "ניטור ותצפית",
+        "description": "פתרונות מקיפים לניטור, רישום והתראות",
+        "tools": "Prometheus, Grafana, ELK Stack, Datadog, New Relic, CloudWatch"
+      },
+      "security": {
+        "title": "אבטחה ותאימות",
+        "description": "סריקת אבטחה, אוטומציה של תאימות וניהול סודות",
+        "tools": "Vault, SonarQube, Trivy, Aqua Security, SAST/DAST, Compliance as Code"
+      },
+      "config": {
+        "title": "ניהול תצורה",
+        "description": "ניהול תצורה ושינויים אוטומטי",
+        "tools": "Ansible, Chef, Puppet, Salt, Consul"
+      }
+    }
+  },
+  "about": {
+    "title": "אודות AmiTCore",
+    "subtitle": "השותף המהימן שלך למצוינות בתשתית ענן ו-DevOps",
+    "mission": {
+      "title": "המשימה שלנו",
+      "description": "AmiTCore מחויבת לעזור לעסקים לשנות את התשתית שלהם באמצעות טכנולוגיות ענן מתקדמות ושיטות DevOps. אנו מתמחים בפתרונות רב-ענן, המאפשרים לארגונים למנף את הטוב ביותר מ-AWS, GCP, Azure, Alibaba Cloud ו-Oracle Cloud."
+    },
+    "expertise": {
+      "title": "המומחיות שלנו",
+      "description": "צוות אנשי המקצוע המוסמכים שלנו מביא מומחיות עמוקה בכל פלטפורמות הענן הגדולות וכלי DevOps. סיפקנו בהצלחה פתרונות תשתית לעסקים בכל הגדלים, מסטארט-אפים ועד ארגונים גדולים.",
+      "certifications": "AWS Certified Solutions Architect, Google Cloud Professional Cloud Architect, Microsoft Azure Solutions Architect, Certified Kubernetes Administrator (CKA) ועוד"
+    },
+    "values": {
+      "title": "הערכים שלנו",
+      "innovation": "חדשנות",
+      "innovationDesc": "נשארים מעודכנים עם הטכנולוגיות הענן החדשות ביותר ושיטות עבודה מומלצות",
+      "reliability": "אמינות",
+      "reliabilityDesc": "בניית תשתית חזקה וניתנת להרחבה שאפשר לסמוך עליה",
+      "partnership": "שותפות",
+      "partnershipDesc": "עבודה צמודה עם לקוחות כדי להבין ולענות על הצרכים הייחודיים שלהם",
+      "excellence": "מצוינות",
+      "excellenceDesc": "אספקת פתרונות באיכות גבוהה שעולים על הציפיות"
+    }
+  },
+  "contact": {
+    "title": "צור קשר",
+    "subtitle": "צור קשר כדי לדון בצרכי התשתית הענן וה-DevOps שלך",
+    "getInTouch": "צור קשר",
+    "email": "אימייל",
+    "emailAddress": "info@amitcore.com",
+    "phone": "טלפון",
+    "phoneNumber": "זמין לפי בקשה",
+    "hours": "שעות פעילות",
+    "hoursDetails": "ראשון - חמישי: 9:00 - 18:00",
+    "sendMessage": "שלח לנו הודעה",
+    "messagePrompt": "לחץ על הכפתור למטה כדי לשלוח לנו אימייל",
+    "contactButton": "צור קשר באימייל",
+    "social": "עקוב אחרינו",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "footer": {
+    "copyright": "© 2025 AmiTCore. כל הזכויות שמורות.",
+    "tagline": "תשתית ענן ומצוינות DevOps",
+    "quickLinks": "קישורים מהירים",
+    "services": "שירותים",
+    "cloudProviders": "ספקי ענן",
+    "devopsServices": "שירותי DevOps",
+    "followUs": "עקוב אחרינו"
+  },
+  "common": {
+    "learnMore": "למד עוד",
+    "readMore": "קרא עוד",
+    "viewAll": "צפה בהכל",
+    "backToHome": "חזור לבית"
+  }
+}
