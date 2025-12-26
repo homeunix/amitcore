@@ -8,7 +8,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/amitcore',
+  basePath: '',
   trailingSlash: true,
 }
 
