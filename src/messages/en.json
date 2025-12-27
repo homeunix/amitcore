@@ -121,8 +121,7 @@
     },
     "expertise": {
       "title": "Our Expertise",
-      "description": "Our team of certified professionals brings deep expertise across all major cloud platforms and DevOps tools. We have successfully delivered infrastructure solutions for businesses of all sizes, from startups to enterprises.",
-      "certifications": "AWS Certified Solutions Architect, Google Cloud Professional Cloud Architect, Microsoft Azure Solutions Architect, Certified Kubernetes Administrator (CKA), and more"
+      "description": "Our team of certified professionals brings deep expertise across all major cloud platforms and DevOps tools. We have successfully delivered infrastructure solutions for businesses of all sizes, from startups to enterprises."
     },
     "values": {
       "title": "Our Values",

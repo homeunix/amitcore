@@ -121,8 +121,7 @@
     },
     "expertise": {
       "title": "המומחיות שלנו",
-      "description": "צוות אנשי המקצוע המוסמכים שלנו מביא מומחיות עמוקה בכל פלטפורמות הענן הגדולות וכלי DevOps. סיפקנו בהצלחה פתרונות תשתית לעסקים בכל הגדלים, מסטארט-אפים ועד ארגונים גדולים.",
-      "certifications": "AWS Certified Solutions Architect, Google Cloud Professional Cloud Architect, Microsoft Azure Solutions Architect, Certified Kubernetes Administrator (CKA) ועוד"
+      "description": "צוות אנשי המקצוע המוסמכים שלנו מביא מומחיות עמוקה בכל פלטפורמות הענן הגדולות וכלי DevOps. סיפקנו בהצלחה פתרונות תשתית לעסקים בכל הגדלים, מסטארט-אפים ועד ארגונים גדולים."
     },
     "values": {
       "title": "הערכים שלנו",
