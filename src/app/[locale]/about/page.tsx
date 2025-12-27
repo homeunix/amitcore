@@ -97,15 +97,9 @@ export default async function AboutPage({ params }: Props) {
             <h2 className="text-3xl md:text-4xl font-bold text-center mb-6">
               {t('expertise.title')}
             </h2>
-            <p className="text-lg text-gray-700 leading-relaxed text-center mb-8">
+            <p className="text-lg text-gray-700 leading-relaxed text-center">
               {t('expertise.description')}
             </p>
-            <div className="bg-white rounded-xl shadow-lg p-6 md:p-8 border-l-4 border-primary-600">
-              <p className="text-sm font-semibold text-gray-500 mb-2">Certifications</p>
-              <p className="text-gray-700">
-                {t('expertise.certifications')}
-              </p>
-            </div>
           </div>
         </div>
       </section>
