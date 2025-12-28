@@ -52,7 +52,7 @@ export default function Header() {
             <img
               src="/logo.svg"
               alt="AmiTCore"
-              className="h-10 md:h-12 w-auto transition-transform group-hover:scale-105"
+              className="h-16 md:h-20 w-auto transition-transform group-hover:scale-105"
             />
           </Link>
 
