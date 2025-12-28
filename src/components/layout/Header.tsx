@@ -49,9 +49,11 @@ export default function Header() {
         <div className="flex items-center justify-between h-16 md:h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2 group">
-            <div className="text-2xl md:text-3xl font-bold text-gradient">
-              AmiTCore
-            </div>
+            <img
+              src="/logo.svg"
+              alt="AmiTCore"
+              className="h-10 md:h-12 w-auto transition-transform group-hover:scale-105"
+            />
           </Link>
 
           {/* Desktop Navigation */}
