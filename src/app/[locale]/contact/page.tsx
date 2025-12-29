@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
-import { FiMail, FiPhone, FiLinkedin } from 'react-icons/fi';
+import { FiMail, FiPhone } from 'react-icons/fi';
 
 export const dynamic = 'force-static';
 
@@ -41,14 +41,12 @@ export default async function ContactPage({ params }: Props) {
     },
   ];
 
-  const socialLinks = [
-    {
-      name: 'LinkedIn',
-      icon: FiLinkedin,
-      href: 'https://linkedin.com/company/amitcore',
-      color: 'hover:text-blue-600',
-    },
-  ];
+  const socialLinks: Array<{
+    name: string;
+    icon: typeof FiMail;
+    href: string;
+    color: string;
+  }> = [];
 
   return (
     <div className="min-h-screen">
@@ -115,27 +113,6 @@ export default async function ContactPage({ params }: Props) {
               </a>
             </div>
 
-            {/* Social Links */}
-            <div className="mt-16 text-center">
-              <h3 className="text-xl font-semibold mb-6 text-gray-900">{t('social')}</h3>
-              <div className="flex items-center justify-center space-x-6">
-                {socialLinks.map((social) => {
-                  const Icon = social.icon;
-                  return (
-                    <a
-                      key={social.name}
-                      href={social.href}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className={`flex items-center space-x-2 px-6 py-3 rounded-lg border-2 border-gray-300 ${social.color} transition-all duration-300 hover:border-primary-600 hover:shadow-lg`}
-                    >
-                      <Icon className="w-6 h-6" />
-                      <span className="font-medium">{social.name}</span>
-                    </a>
-                  );
-                })}
-              </div>
-            </div>
           </div>
         </div>
       </section>

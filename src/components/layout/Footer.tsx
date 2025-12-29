@@ -2,7 +2,7 @@
 
 import { useTranslations } from 'next-intl';
 import { Link } from '@/i18n/routing';
-import { FiLinkedin, FiMail } from 'react-icons/fi';
+import { FiMail } from 'react-icons/fi';
 
 export default function Footer() {
   const t = useTranslations('footer');
@@ -16,7 +16,6 @@ export default function Footer() {
   ];
 
   const socialLinks = [
-    { name: 'LinkedIn', icon: FiLinkedin, href: 'https://linkedin.com/company/amitcore' },
     { name: 'Email', icon: FiMail, href: 'mailto:info@amitcore.com' },
   ];
 
@@ -78,16 +77,6 @@ export default function Footer() {
                   className="hover:text-white transition-colors"
                 >
                   info@amitcore.com
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://linkedin.com/company/amitcore"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="hover:text-white transition-colors"
-                >
-                  LinkedIn
                 </a>
               </li>
             </ul>
