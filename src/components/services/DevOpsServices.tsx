@@ -1,7 +1,7 @@
 'use client';
 
 import { useTranslations } from 'next-intl';
-import { FiGitBranch, FiServer, FiPackage, FiActivity, FiShield, FiSettings } from 'react-icons/fi';
+import { FiGitBranch, FiServer, FiPackage, FiActivity, FiShield, FiSettings, FiCpu } from 'react-icons/fi';
 
 export default function DevOpsServices() {
   const t = useTranslations('services.devops');
@@ -60,6 +60,15 @@ export default function DevOpsServices() {
       tools: t('config.tools'),
       color: 'bg-indigo-100 text-indigo-600',
       borderColor: 'border-indigo-200',
+    },
+    {
+      key: 'automation',
+      icon: FiCpu,
+      title: t('automation.title'),
+      description: t('automation.description'),
+      tools: t('automation.tools'),
+      color: 'bg-teal-100 text-teal-600',
+      borderColor: 'border-teal-200',
     },
   ];
 

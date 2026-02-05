@@ -109,6 +109,11 @@
         "title": "配置管理",
         "description": "自动化配置和变更管理",
         "tools": "Ansible、Chef、Puppet、Salt、Consul"
+      },
+      "automation": {
+        "title": "自动化与机器人",
+        "description": "定制自动化解决方案、机器人和工作流编排",
+        "tools": "Python、Node.js、Slack机器人、Discord机器人、Telegram机器人、n8n、Zapier、自定义脚本"
       }
     }
   },

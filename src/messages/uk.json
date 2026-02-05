@@ -109,6 +109,11 @@
         "title": "Управління конфігурацією",
         "description": "Автоматизоване управління конфігурацією та змінами",
         "tools": "Ansible, Chef, Puppet, Salt, Consul"
+      },
+      "automation": {
+        "title": "Автоматизація та боти",
+        "description": "Індивідуальні рішення автоматизації, боти та оркестрація робочих процесів",
+        "tools": "Python, Node.js, Slack Bots, Discord Bots, Telegram Bots, n8n, Zapier, власні скрипти"
       }
     }
   },

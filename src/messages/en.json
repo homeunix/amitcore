@@ -109,6 +109,11 @@
         "title": "Configuration Management",
         "description": "Automated configuration and change management",
         "tools": "Ansible, Chef, Puppet, Salt, Consul"
+      },
+      "automation": {
+        "title": "Automation & Bots",
+        "description": "Custom automation solutions, bots, and workflow orchestration",
+        "tools": "Python, Node.js, Slack Bots, Discord Bots, Telegram Bots, n8n, Zapier, Custom Scripts"
       }
     }
   },

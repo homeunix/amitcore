@@ -109,6 +109,11 @@
         "title": "ניהול תצורה",
         "description": "ניהול תצורה ושינויים אוטומטי",
         "tools": "Ansible, Chef, Puppet, Salt, Consul"
+      },
+      "automation": {
+        "title": "אוטומציה ובוטים",
+        "description": "פתרונות אוטומציה מותאמים אישית, בוטים ותזמור תהליכי עבודה",
+        "tools": "Python, Node.js, Slack Bots, Discord Bots, Telegram Bots, n8n, Zapier, סקריפטים מותאמים"
       }
     }
   },
