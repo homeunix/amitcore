@@ -1,7 +1,7 @@
 'use client';
 
 import { useTranslations } from 'next-intl';
-import { FiGitBranch, FiServer, FiPackage, FiActivity, FiShield, FiSettings, FiCpu } from 'react-icons/fi';
+import { FiGitBranch, FiServer, FiPackage, FiActivity, FiShield, FiSettings, FiCpu, FiPhone, FiHardDrive } from 'react-icons/fi';
 
 export default function DevOpsServices() {
   const t = useTranslations('services.devops');
@@ -69,6 +69,24 @@ export default function DevOpsServices() {
       tools: t('automation.tools'),
       color: 'bg-teal-100 text-teal-600',
       borderColor: 'border-teal-200',
+    },
+    {
+      key: 'voip',
+      icon: FiPhone,
+      title: t('voip.title'),
+      description: t('voip.description'),
+      tools: t('voip.tools'),
+      color: 'bg-cyan-100 text-cyan-600',
+      borderColor: 'border-cyan-200',
+    },
+    {
+      key: 'backup',
+      icon: FiHardDrive,
+      title: t('backup.title'),
+      description: t('backup.description'),
+      tools: t('backup.tools'),
+      color: 'bg-amber-100 text-amber-600',
+      borderColor: 'border-amber-200',
     },
   ];
 

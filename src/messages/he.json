@@ -114,6 +114,16 @@
         "title": "אוטומציה ובוטים",
         "description": "פתרונות אוטומציה מותאמים אישית, בוטים ותזמור תהליכי עבודה",
         "tools": "Python, Node.js, Slack Bots, Discord Bots, Telegram Bots, n8n, Zapier, סקריפטים מותאמים"
+      },
+      "voip": {
+        "title": "VoIP ותקשורת מאוחדת",
+        "description": "פתרונות קול ארגוניים, מערכות IVR ותשתית מוקדים טלפוניים",
+        "tools": "Asterisk, FreePBX, 3CX, Twilio, SIP Trunking, WebRTC, מערכות IVR"
+      },
+      "backup": {
+        "title": "גיבוי והתאוששות מאסון",
+        "description": "הגנת מידע, תכנון המשכיות עסקית ופתרונות התאוששות מאסון",
+        "tools": "Veeam, Bacula, AWS Backup, Azure Backup, Restic, רפליקציה בין אזורים, תכנון RTO/RPO"
       }
     }
   },

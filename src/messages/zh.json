@@ -114,6 +114,16 @@
         "title": "自动化与机器人",
         "description": "定制自动化解决方案、机器人和工作流编排",
         "tools": "Python、Node.js、Slack机器人、Discord机器人、Telegram机器人、n8n、Zapier、自定义脚本"
+      },
+      "voip": {
+        "title": "VoIP与统一通信",
+        "description": "企业语音解决方案、IVR系统和呼叫中心基础设施",
+        "tools": "Asterisk、FreePBX、3CX、Twilio、SIP中继、WebRTC、IVR系统"
+      },
+      "backup": {
+        "title": "备份与灾难恢复",
+        "description": "数据保护、业务连续性规划和灾难恢复解决方案",
+        "tools": "Veeam、Bacula、AWS Backup、Azure Backup、Restic、跨区域复制、RTO/RPO规划"
       }
     }
   },

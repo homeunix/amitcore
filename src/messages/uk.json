@@ -114,6 +114,16 @@
         "title": "Автоматизація та боти",
         "description": "Індивідуальні рішення автоматизації, боти та оркестрація робочих процесів",
         "tools": "Python, Node.js, Slack Bots, Discord Bots, Telegram Bots, n8n, Zapier, власні скрипти"
+      },
+      "voip": {
+        "title": "VoIP та уніфіковані комунікації",
+        "description": "Корпоративні голосові рішення, IVR-системи та інфраструктура колл-центрів",
+        "tools": "Asterisk, FreePBX, 3CX, Twilio, SIP Trunking, WebRTC, IVR-системи"
+      },
+      "backup": {
+        "title": "Резервне копіювання та аварійне відновлення",
+        "description": "Захист даних, планування безперервності бізнесу та рішення аварійного відновлення",
+        "tools": "Veeam, Bacula, AWS Backup, Azure Backup, Restic, міжрегіональна реплікація, планування RTO/RPO"
       }
     }
   },

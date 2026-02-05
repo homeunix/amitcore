@@ -114,6 +114,16 @@
         "title": "Automation & Bots",
         "description": "Custom automation solutions, bots, and workflow orchestration",
         "tools": "Python, Node.js, Slack Bots, Discord Bots, Telegram Bots, n8n, Zapier, Custom Scripts"
+      },
+      "voip": {
+        "title": "VoIP & Unified Communications",
+        "description": "Enterprise voice solutions, IVR systems, and call center infrastructure",
+        "tools": "Asterisk, FreePBX, 3CX, Twilio, SIP Trunking, WebRTC, IVR Systems"
+      },
+      "backup": {
+        "title": "Backup & Disaster Recovery",
+        "description": "Data protection, business continuity planning, and disaster recovery solutions",
+        "tools": "Veeam, Bacula, AWS Backup, Azure Backup, Restic, Cross-region Replication, RTO/RPO Planning"
       }
     }
   },
