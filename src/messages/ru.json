@@ -1,0 +1,185 @@
+{
+  "navigation": {
+    "home": "Главная",
+    "services": "Услуги",
+    "about": "О нас",
+    "contact": "Контакты"
+  },
+  "home": {
+    "hero": {
+      "title": "Экспертные облачные и DevOps решения",
+      "subtitle": "Трансформируйте вашу инфраструктуру с помощью облачных сервисов корпоративного уровня на базе AWS, GCP, Azure, Alibaba Cloud и Oracle Cloud",
+      "ctaPrimary": "Наши услуги",
+      "ctaSecondary": "Связаться с нами"
+    },
+    "services": {
+      "title": "Наши услуги",
+      "subtitle": "Комплексные облачные и DevOps решения, адаптированные под потребности вашего бизнеса",
+      "cloudTitle": "Мультиоблачная экспертиза",
+      "cloudDesc": "Инфраструктурные решения для всех ведущих облачных провайдеров",
+      "devopsTitle": "Полный спектр DevOps",
+      "devopsDesc": "Комплексная DevOps трансформация и автоматизация"
+    },
+    "whyChooseUs": {
+      "title": "Почему выбирают AmiTCore",
+      "subtitle": "Ваш надёжный партнёр в области облачной инфраструктуры и DevOps",
+      "expertise": {
+        "title": "Мультиоблачная экспертиза",
+        "description": "Глубокие знания и сертификации по AWS, GCP, Azure, Alibaba Cloud и Oracle Cloud"
+      },
+      "team": {
+        "title": "Сертифицированные специалисты",
+        "description": "Команда опытных инженеров с признанными в отрасли сертификатами и подтверждённым опытом"
+      },
+      "devops": {
+        "title": "Комплексные DevOps решения",
+        "description": "Полный спектр DevOps услуг — от CI/CD пайплайнов до автоматизации инфраструктуры"
+      },
+      "support": {
+        "title": "Поддержка 24/7",
+        "description": "Круглосуточная поддержка и мониторинг для бесперебойной работы вашей инфраструктуры"
+      },
+      "costEffective": {
+        "title": "Экономичная удалённая поддержка",
+        "description": "Не нужно содержать дорогостоящий IT-штат. Получайте экспертную удалённую поддержку по запросу"
+      }
+    }
+  },
+  "services": {
+    "title": "Наши услуги",
+    "subtitle": "Комплексные решения для облачной инфраструктуры и DevOps",
+    "cloudProviders": {
+      "title": "Облачные провайдеры",
+      "subtitle": "Экспертные услуги для всех ведущих облачных платформ",
+      "aws": {
+        "name": "Amazon Web Services",
+        "description": "Полный спектр консалтинга, проектирования и внедрения решений AWS",
+        "services": "EC2, S3, Lambda, EKS, RDS, CloudFormation, VPC, IAM и многое другое"
+      },
+      "gcp": {
+        "name": "Google Cloud Platform",
+        "description": "Проектирование архитектуры GCP, миграция и оптимизация",
+        "services": "Compute Engine, GKE, Cloud Run, BigQuery, Cloud Functions, Cloud Storage"
+      },
+      "azure": {
+        "name": "Microsoft Azure",
+        "description": "Облачные решения Azure и интеграция с корпоративными системами",
+        "services": "Virtual Machines, AKS, Azure DevOps, Functions, Blob Storage, Azure SQL"
+      },
+      "alicloud": {
+        "name": "Alibaba Cloud",
+        "description": "Развёртывание, настройка и оптимизация Alicloud",
+        "services": "ECS, Container Service, Function Compute, Object Storage Service"
+      },
+      "oracle": {
+        "name": "Oracle Cloud",
+        "description": "Экспертиза и внедрение Oracle Cloud Infrastructure",
+        "services": "Compute, Container Engine for Kubernetes, Functions, Block Storage"
+      }
+    },
+    "devops": {
+      "title": "DevOps услуги",
+      "subtitle": "Комплексная DevOps трансформация и автоматизация",
+      "cicd": {
+        "title": "CI/CD пайплайны",
+        "description": "Автоматизированные пайплайны непрерывной интеграции и развёртывания",
+        "tools": "Jenkins, GitLab CI, GitHub Actions, CircleCI, ArgoCD, Azure DevOps"
+      },
+      "iac": {
+        "title": "Инфраструктура как код",
+        "description": "Автоматизированное развёртывание и управление инфраструктурой",
+        "tools": "Terraform, Ansible, CloudFormation, Pulumi, ARM Templates"
+      },
+      "containers": {
+        "title": "Оркестрация контейнеров",
+        "description": "Решения для контейнеризации и оркестрации",
+        "tools": "Kubernetes, Docker, Helm, Rancher, OpenShift, ECS, GKE, AKS"
+      },
+      "monitoring": {
+        "title": "Мониторинг и наблюдаемость",
+        "description": "Комплексные решения для мониторинга, логирования и алертинга",
+        "tools": "Prometheus, Grafana, ELK Stack, Datadog, New Relic, CloudWatch"
+      },
+      "security": {
+        "title": "Безопасность и соответствие требованиям",
+        "description": "Сканирование безопасности, автоматизация соответствия и управление секретами",
+        "tools": "Vault, SonarQube, Trivy, Aqua Security, SAST/DAST, Compliance as Code"
+      },
+      "config": {
+        "title": "Управление конфигурацией",
+        "description": "Автоматизированное управление конфигурацией и изменениями",
+        "tools": "Ansible, Chef, Puppet, Salt, Consul"
+      },
+      "automation": {
+        "title": "Автоматизация и боты",
+        "description": "Индивидуальные решения автоматизации, боты и оркестрация рабочих процессов",
+        "tools": "Python, Node.js, Slack Bots, Discord Bots, Telegram Bots, n8n, Zapier, Custom Scripts"
+      },
+      "voip": {
+        "title": "VoIP и унифицированные коммуникации",
+        "description": "Корпоративные голосовые решения, IVR-системы и инфраструктура колл-центров",
+        "tools": "Asterisk, FreePBX, 3CX, Twilio, SIP Trunking, WebRTC, IVR Systems"
+      },
+      "backup": {
+        "title": "Резервное копирование и аварийное восстановление",
+        "description": "Защита данных, планирование непрерывности бизнеса и решения для аварийного восстановления",
+        "tools": "Veeam, Bacula, AWS Backup, Azure Backup, Restic, Cross-region Replication, RTO/RPO Planning"
+      }
+    }
+  },
+  "about": {
+    "title": "Об AmiTCore",
+    "subtitle": "Ваш надёжный партнёр в области облачной инфраструктуры и DevOps",
+    "mission": {
+      "title": "Наша миссия",
+      "description": "AmiTCore помогает бизнесу трансформировать инфраструктуру с помощью передовых облачных технологий и DevOps практик. Мы специализируемся на мультиоблачных решениях, позволяя организациям использовать лучшее от AWS, GCP, Azure, Alibaba Cloud и Oracle Cloud."
+    },
+    "expertise": {
+      "title": "Наша экспертиза",
+      "description": "Наша команда сертифицированных специалистов обладает глубокими знаниями всех ведущих облачных платформ и DevOps инструментов. Мы успешно реализовали инфраструктурные решения для компаний любого размера — от стартапов до крупных предприятий."
+    },
+    "values": {
+      "title": "Наши ценности",
+      "innovation": "Инновации",
+      "innovationDesc": "Идём в ногу с новейшими облачными технологиями и лучшими практиками",
+      "reliability": "Надёжность",
+      "reliabilityDesc": "Создаём устойчивую, масштабируемую инфраструктуру, на которую можно положиться",
+      "partnership": "Партнёрство",
+      "partnershipDesc": "Работаем в тесном контакте с клиентами, чтобы понять и удовлетворить их уникальные потребности",
+      "excellence": "Превосходство",
+      "excellenceDesc": "Предоставляем высококачественные решения, превосходящие ожидания"
+    }
+  },
+  "contact": {
+    "title": "Свяжитесь с нами",
+    "subtitle": "Обсудите ваши потребности в облачной инфраструктуре и DevOps",
+    "getInTouch": "Контактная информация",
+    "email": "Email",
+    "emailAddress": "info@amitcore.com",
+    "phone": "Телефон",
+    "phoneNumber": "Предоставляется по запросу",
+    "hours": "Часы работы",
+    "hoursDetails": "Понедельник - Пятница: 9:00 - 18:00",
+    "sendMessage": "Отправить сообщение",
+    "messagePrompt": "Нажмите кнопку ниже, чтобы отправить нам email",
+    "contactButton": "Написать на Email",
+    "social": "Мы в соцсетях",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "footer": {
+    "copyright": "© 2025 AmiTCore. Все права защищены.",
+    "tagline": "Облачная инфраструктура и DevOps",
+    "quickLinks": "Быстрые ссылки",
+    "services": "Услуги",
+    "cloudProviders": "Облачные провайдеры",
+    "devopsServices": "DevOps услуги",
+    "followUs": "Мы в соцсетях"
+  },
+  "common": {
+    "learnMore": "Подробнее",
+    "readMore": "Читать далее",
+    "viewAll": "Смотреть все",
+    "backToHome": "На главную"
+  }
+}
